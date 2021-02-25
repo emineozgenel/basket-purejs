@@ -1,6 +1,6 @@
 # Pure Javascript Basket Web Application
 
-[Demo](https://sepet-purejs.vercel.app/).
+[Demo](https://basket-purejs.vercel.app/).
 
 ## Project setup
 
